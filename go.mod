@@ -1,4 +1,4 @@
-module github.com/cuong-incognito/portal-master-pubkey-generator
+module github.com/incognitochain/portal-master-pubkey-generator
 
 go 1.15
 
